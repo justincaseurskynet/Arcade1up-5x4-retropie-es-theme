@@ -5,7 +5,7 @@ The goal of this project is to recreate the look and feel of Arcade1up's UI
 
 There are over 300 system icons included with this theme
 
-I've also included an Arcade1up splashscreen (_inc/splashscreen/arcade1up.mp4),
+I've also included an Arcade1up splash screen (_inc/splashscreen/arcade1up.mp4),
 a "Winners Don't Use Drugs" loading screen (_inc/launching.jpg),
 and a collection of 24 slideshow/wallpapers (_inc/slideshow/images)
 
