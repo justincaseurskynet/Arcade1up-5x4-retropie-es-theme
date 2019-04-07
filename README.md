@@ -7,7 +7,7 @@ There are over 300 system icons included with this theme
 
 I've also included an Arcade1up splashscreen (_inc/splashscreen/arcade1up.mp4),
 a "Winners Don't Use Drugs" loading screen (_inc/launching.jpg),
-and a collection of 24 slideshow/wallpapers (inc/slideshow/images)
+and a collection of 24 slideshow/wallpapers (_inc/slideshow/images)
 
 Shout out to all the great members of the Arcade1up modding community!
 You are an inspiration to all of us!  Please continue to share your work!
